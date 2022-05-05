@@ -12,5 +12,6 @@ https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
+https://raw.githubusercontent.com/jumpsmm7/GeneratedAdblock/master/IPlist.list
 https://threatview.io/Downloads/Experimental-IOC-Tweets.txt
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
